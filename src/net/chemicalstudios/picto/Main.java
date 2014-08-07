@@ -26,7 +26,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("@FileName - file.txt | file.png\n"
+		System.out.println("@FileName - example.txt\n"x
 				+ "@patternMode - true | false\n"
 				+ "@amount - #\n"
 				+ "Input format: FileName,patternMode,amount");
